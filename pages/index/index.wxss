@@ -1,0 +1,36 @@
+/**index.wxss**/
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+.box li{
+  display: block;
+  background-color:#333;
+  margin-bottom:1rem;
+  padding:0.5rem 1rem;
+  width:100%;
+}
+.inp{
+  margin:1rem 0;
+  padding:.5rem 2rem;
+  border: 1px solid #eee;
+}
+h3{
+  margin-left:1rem;
+  padding-bottom:1rem;
+  display: block
+}
+.complete li{
+  background-color:#67c23a;
+}
